@@ -5,6 +5,7 @@ example files for main.cpp
 
 file1.txt
 
+
 in this hw     in this hw    hw in this
 this hw in
 in that
@@ -15,6 +16,7 @@ there
 hey
 
 file2.txt
+
 
 in this hw
 
